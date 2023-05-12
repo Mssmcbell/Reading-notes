@@ -3,9 +3,9 @@ Notes for course 102
 
 ## Explain Growth Mindset
 
-- Growth mindset is when you never give up.
+- Growth mindset is when you ***NEVER*** give up.
 - Growth mindset is viewing challenges and obstacles as stepping stones.
-- Growth mindset is working to improve your abilities with consistency.
+- Growth mindset is determination to improve your abilities with consistency.
 
 ### 3 Growth Mindset Reminders
 
@@ -14,7 +14,7 @@ Notes for course 102
 3. Money is the Motive
 
 
- My name is Shauntel and I'm a newcomer to software development. Visit my [GitHub](https://github.com/Mssmcbell)
+ **My name is *Shauntel* and I'm a newcomer to software development.** Visit my [GitHub](https://github.com/Mssmcbell)
 
 
 
