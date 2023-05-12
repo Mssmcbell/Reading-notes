@@ -9,9 +9,11 @@ Notes for course 102
 
 ### 3 Growth Mindset Reminders
 
-* Never Give Up
-* Chances Make Champions
-* Money is the Motive
+1. Never Give Up
+2. Chances Make Champions
+3. Money is the Motive
+
+
 
 
 
