@@ -13,7 +13,7 @@ Notes for course 102
 2. Chances Make Champions
 3. Money is the Motive
 
-Visit My Github [GitHub Pages](https://).
+Visit My Github [GitHub Pages](https://github.com/Mssmcbell/Reading-notes).
 
 
 
