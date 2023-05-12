@@ -13,7 +13,8 @@ Notes for course 102
 2. Chances Make Champions
 3. Money is the Motive
 
-Visit My [GitHub](https://github.com/Mssmcbell)
+
+ My name is Shauntel and I'm a newcomer to software development. Visit my [GitHub](https://github.com/Mssmcbell)
 
 
 
