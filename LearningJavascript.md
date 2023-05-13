@@ -10,4 +10,4 @@
 - it assigns a value to the variable
 - its the equal sign(=)which give the variable a value
 4. What is information received from the user called?
-- 
+- userinput its the answer to the prompts
