@@ -22,4 +22,7 @@
 5. How do you create a link with Markdown?
 - create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( )
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
-* create unordered list by preceding one or more lines of text with -, *, or +.
+  1. -
+  2. *
+  3. +
+
