@@ -16,7 +16,7 @@ Explain Growth Mindset
 
  **My name is *Shauntel* and I'm a newcomer to software development.** Visit my [GitHub](https://github.com/Mssmcbell)
  
- ## Table Contents
+ ## Table of Contents
 
 #### [Learning Markdown](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningMarkdown.md#learning-markdown)
 #### [Learning Javascript](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningJavascript.md#learning-javascript)
