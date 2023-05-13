@@ -1,9 +1,7 @@
 # Reading-Notes
 Notes for course 102
 
-## Table Contents
-
-### Explain Growth Mindset
+Explain Growth Mindset
 
 - Growth mindset is when you ***NEVER*** give up.
 - Growth mindset is viewing challenges and obstacles as stepping stones.
@@ -17,6 +15,8 @@ Notes for course 102
 
 
  **My name is *Shauntel* and I'm a newcomer to software development.** Visit my [GitHub](https://github.com/Mssmcbell)
+ 
+ ## Table Contents
 
 #### [Learning Markdown](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningMarkdown.md#learning-markdown)
 
