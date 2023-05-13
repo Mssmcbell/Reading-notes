@@ -17,8 +17,7 @@ Notes for course 102
  **My name is *Shauntel* and I'm a newcomer to software development.** Visit my [GitHub](https://github.com/Mssmcbell)
 
 
-
-
+#### [Learning Markdown](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningMarkdown.md#learning-markdown)
 
 
 
