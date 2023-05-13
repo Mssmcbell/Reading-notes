@@ -1,3 +1,5 @@
+# The Coder's Computer
+
 1. What are four important features to look for in a text editor?
 2. What do the following commands do?
     1. pwd
