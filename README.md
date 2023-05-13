@@ -19,6 +19,7 @@ Explain Growth Mindset
  ## Table Contents
 
 #### [Learning Markdown](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningMarkdown.md#learning-markdown)
+#### [Learning Javascript](https://github.com/Mssmcbell/Reading-notes/blob/main/LearningJavascript.md#learning-javascript)
 
 
 
