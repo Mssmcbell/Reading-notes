@@ -4,7 +4,7 @@
 - Growth mindset is viewing challenges and obstacles as stepping stones.
 - Growth mindset is determination to improve your abilities with consistency.
 
-3 Growth Mindset Reminders
+## 3 Growth Mindset Reminders
 
 1. Never Give Up
 2. Chances Make Champions
