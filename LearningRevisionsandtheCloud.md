@@ -7,5 +7,6 @@
 3. What is the command to track and stage files?
 - for all files command (git add asterik), and a single file (git add filename)
 5. What is the command to take a snapshot of your changed files?
-
+- every single change is tracked by Git once you (commit) to save changes
 5. What is the command to send your changed files to Github?
+- $ git commit -a saves all changes to github
